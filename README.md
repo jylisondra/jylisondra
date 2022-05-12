@@ -2,7 +2,7 @@
 
 I'm Joelle Yasmeen, but you can call me Yasmeen.
 
-- 🔭 I’m a new grad from Colorado State University
+- 🔭 I’m a new grad from Colorado State University, majored in MIS with a programming specialization
 - 🌱 I’m currently learning ReactJS and Typescript
 - 😄 Pronouns: She/Her
 
